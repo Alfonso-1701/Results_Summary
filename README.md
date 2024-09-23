@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Alfonso-1701/Results_Summary](https://github.com/Alfonso-1701/Results_Summary)
+- Live Site URL: [https://steady-cobbler-83d8bb.netlify.app](https://steady-cobbler-83d8bb.netlify.app)
 
 ## My process
 
